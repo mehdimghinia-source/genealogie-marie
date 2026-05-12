@@ -4,7 +4,15 @@
 
 ## 🆕 Découvertes session 11/05/2026 (archives.paris.fr — Chrome MCP)
 
-### ✅ 2 sœurs aînées probables de Michel PIERONNE (G2)
+### ❌ HYPOTHÈSE INVALIDÉE PAR LA FAMILLE (12/05/2026)
+
+⚠️ Cette section listait Josette Hélène (4/12/1930) et Jeannine Alice (13/4/1932), inscrites comme « probables sœurs aînées » de Michel V.F. PIERONNE. Mehdi (famille) atteste le 12/05/2026 que **ces 2 personnes ne sont PAS sœurs de Michel V.F.** — la présomption reposait uniquement sur le partage du patronyme PIERONNE dans la même tranche alphabétique de la table décennale Paris 14e 1923-1932, sans aucun acte de naissance pour confirmer l'affiliation à Victor Auguste × Juliette VAUGRENARD.
+
+**Le vrai frère de Victor Auguste PIERONNE est SERGE PIERONNE**, dont les enfants sont Marie France PIERONNE et Éric PIERONNE (info famille Mehdi 12/05/2026).
+
+Section conservée ci-dessous pour traçabilité de l'erreur mais **NE PAS** réutiliser ces filiations.
+
+### 2 PIERONNE nés Paris 14e 1923-1932 (homonymes — pas frère/sœur de Michel)
 
 **Source** : Tables décennales NAISSANCES 14e Paris 1923-1932, cote **V11E 443**, image 7/21, tranche alphabétique **Philippe → Planquart** (URL : [arkothèque archives.paris.fr](https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/consulter-les-tables-decennales)).
 
